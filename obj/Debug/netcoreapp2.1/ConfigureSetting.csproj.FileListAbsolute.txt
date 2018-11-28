@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\ConfigureSetting\obj\Debug\netcoreapp2.1\ConfigureSetting.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ConfigureSetting\obj\Debug\netcoreapp2.1\ConfigureSetting.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ConfigureSetting\obj\Debug\netcoreapp2.1\ConfigureSetting.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\ConfigureSetting\obj\Debug\netcoreapp2.1\ConfigureSetting.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\ConfigureSetting\obj\Debug\netcoreapp2.1\ConfigureSetting.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ConfigureSetting\obj\Debug\netcoreapp2.1\ConfigureSetting.AssemblyInfo.cs
+C:\Users\USER\Desktop\ConfigureSetting\bin\Debug\netcoreapp2.1\ConfigureSetting.deps.json
+C:\Users\USER\Desktop\ConfigureSetting\bin\Debug\netcoreapp2.1\ConfigureSetting.runtimeconfig.json
+C:\Users\USER\Desktop\ConfigureSetting\bin\Debug\netcoreapp2.1\ConfigureSetting.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ConfigureSetting\bin\Debug\netcoreapp2.1\ConfigureSetting.dll
+C:\Users\USER\Desktop\ConfigureSetting\bin\Debug\netcoreapp2.1\ConfigureSetting.pdb
+C:\Users\USER\Desktop\ConfigureSetting\obj\Debug\netcoreapp2.1\ConfigureSetting.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\ConfigureSetting\obj\Debug\netcoreapp2.1\ConfigureSetting.dll
+C:\Users\USER\Desktop\ConfigureSetting\obj\Debug\netcoreapp2.1\ConfigureSetting.pdb
