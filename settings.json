@@ -10,5 +10,13 @@
         "SubProperty2": true,
         "SubProperty3": "This is sub property."
       }
+    },
+    "Logging":{
+      "LogLevel":{
+        "Default":"Debug",
+        "MyWebsite": "Error",
+        "System": "Error",
+        "Microsoft": "Error"
+      }
     }
   }
